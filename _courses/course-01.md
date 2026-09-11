@@ -1,46 +1,34 @@
 ---
 course_number: 1
-course_code: "COMM XXXX"
-course_title: "Course Title 1"
-meeting_time: "MWF 10:10–11:00 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+course_code: "BIOL 1014"
+course_title: "Introduction to Biology "
+meeting_time: "T-TH 3:30-4:45"
+location: "SURGE 104D"
+instructor_name: "Dr. Elijah Carter"
+instructor_title: "Assistant Director for Instructional Support"
+instructor_department: "College of Science"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+This course serves as an introduction to Biology for non-life science majors. Some of the topics covered in this course include: cell structure, physiology, reproduction, genetics, evolution, ecology, diversity of life, etc. I am taking this course simply because it fulfills my last pathways course in order to graduate. I am hoping to get a collegiate level understanding of the more simple topics covered in an intro to biology class. 
 
-## About Professor Name
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+## About Professor
+
+Dr. Carter is a professor as well as an assistant director in the College of Science at Virginia Tech. He also spent time as an Assistant Professor for Biology at Ithaca College prior to Virginia Tech. Before teaching he earned his Bachelor of Science degree at the University of Georgia and would go on to Syracuse to earn both his Masters and PhD. 
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+University Teaching, Evolution, Ecology, Program Evaluation, Educational Research
+
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+N/A (Could not find)
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Dr. Carter helps efforts to advance strategies in order to innovate and develop communities of practice around undergraduate math and science education. He is focused on creating a better environment to learn for students; he is for the people!
+
