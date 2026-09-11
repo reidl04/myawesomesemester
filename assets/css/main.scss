@@ -8,20 +8,19 @@
 // ------------------------------------------------------------------
 
 :root {
-  --color-bg: #ffffff;
+   --color-bg: #ffffff;
   --color-surface: #ffffff;
-  --color-ink: #111111;
+  --color-ink: #861f41;
   --color-ink-soft: #555555;
-  --color-line: #cccccc;
-  --color-accent: #000000;
+  --color-line: #e5751f;
+  --color-accent: #861f41;
   --color-white: #ffffff;
 
   --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   --font-display: Georgia, "Times New Roman", serif;
 
   --radius: 0px;
-  --shadow: none;
-}
+  --shadow: none;}
 
 * { box-sizing: border-box; }
 
