@@ -24,7 +24,7 @@ Buddy Howell has many skills and interests, many pertaining to communications. S
 
 ### Publications
 
-- Howell has work published in,
+Howell has work published in,
 
 - "Rhetoric & Public Affairs, the American Behavioral Scientist, the Southern Communication Journal, and Kaid and Holtz-Bacha, ed., Encyclopedia of Political Communication."
 
