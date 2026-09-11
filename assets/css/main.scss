@@ -220,3 +220,253 @@ a:hover { color: var(--color-accent); }
 @media (max-width: 600px) {
   .course__title { font-size: 1.6rem; }
 }
+/* HOKIE BULLETIN BOARD THEME */
+
+html {
+  min-height: 100%;
+  background: #aaa397 url("../hokie-stone.png") repeat;
+  background-size: 720px auto;
+}
+
+/* Cork board and wooden frame */
+body {
+  width: calc(100% - 40px);
+  max-width: 1120px;
+  margin: 36px auto;
+  color: #302823;
+  background-color: #bc8d56;
+  background-image:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Cpath fill='%23633b19' opacity='.28' filter='url(%23n)' d='M0 0h180v180H0z'/%3E%3C/svg%3E");
+  border: 14px ridge #93623c;
+  box-shadow: 0 12px 30px #0006, inset 0 0 14px #56371966;
+}
+
+.wrap {
+  max-width: none;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+/* Maroon title sign */
+.site-header {
+  margin: 28px 32px 0;
+  background: #861f41;
+  border-bottom: 5px solid #e5751f;
+  box-shadow: 0 5px 9px #0003;
+}
+
+.site-header .wrap {
+  padding: 22px 26px;
+}
+
+.site-brand {
+  font-size: clamp(1.5rem, 3.5vw, 2.7rem);
+  line-height: 1.2;
+}
+
+.site-brand,
+.site-nav a,
+.site-brand:hover,
+.site-nav a:hover {
+  color: #fff;
+}
+
+.site-nav {
+  flex-wrap: wrap;
+}
+
+.page {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+a {
+  color: #861f41;
+}
+
+a:hover {
+  color: #64152f;
+}
+
+a:focus-visible {
+  outline: 3px solid #861f41;
+  outline-offset: 5px;
+}
+
+.site-header a:focus-visible {
+  outline-color: #fff;
+}
+
+/* Cream paper notes */
+.home-intro,
+.course-list__item,
+.course {
+  position: relative;
+  background: #fff9ed;
+  padding: 36px 28px 26px;
+  box-shadow: 2px 6px 10px #0003;
+  overflow-wrap: anywhere;
+}
+
+.home-intro {
+  max-width: 800px;
+  margin: 0 auto 28px;
+}
+
+.home-intro p {
+  margin: 0;
+}
+
+/* Maroon pushpins */
+.home-intro::before,
+.course-list__item::before,
+.course::before {
+  content: "";
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 8px);
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 35% 25%,
+    #cf6c89,
+    #861f41 55%,
+    #4c1024
+  );
+  box-shadow: 1px 4px 3px #0005;
+}
+
+/* Alternate orange pushpins */
+.course-list__item:nth-child(odd)::before {
+  background: radial-gradient(
+    circle at 35% 25%,
+    #ffcf85,
+    #e5751f 55%,
+    #97400c
+  );
+}
+
+/* Course section sign */
+.course-directory__heading {
+  width: fit-content;
+  max-width: 100%;
+  margin: 0 auto 24px;
+  padding: 8px 20px;
+  color: #fff;
+  background: #861f41;
+  border-bottom: 3px solid #e5751f;
+  text-align: center;
+}
+
+/* Two columns of course notes */
+.course-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px;
+}
+
+.course-list__item,
+.course-list__item:first-child {
+  border: 0;
+}
+
+.course-list__link {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  border-bottom: 2px solid #e5751f;
+  padding-bottom: 12px;
+}
+
+.course-list__code {
+  font-size: 1.5rem;
+  min-width: 0;
+}
+
+.course-list__title {
+  color: #861f41;
+  font-weight: 600;
+}
+
+.course-list__meta {
+  color: #554b43;
+  margin-top: 14px;
+}
+
+/* Individual course pages */
+.course__title,
+.course__body h2,
+.course__body h3 {
+  color: #861f41;
+}
+
+.course img,
+.home-intro img {
+  max-width: 100%;
+  height: auto;
+}
+
+.course pre {
+  overflow-x: auto;
+}
+
+.back-link {
+  background: #fff9ed;
+  padding: 6px 12px;
+}
+
+/* Footer sign */
+.site-footer {
+  margin: 0 32px 28px;
+  padding: 12px 0;
+  color: #fff;
+  background: #861f41;
+  border-top: 3px solid #e5751f;
+}
+
+.site-footer a {
+  color: #fff;
+}
+
+.site-footer__hint {
+  opacity: 1;
+}
+
+/* Stack the notes on phones */
+@media (max-width: 680px) {
+  body {
+    width: calc(100% - 16px);
+    margin: 12px auto;
+    border-width: 8px;
+  }
+
+  .wrap {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .site-header {
+    margin: 16px 16px 0;
+  }
+
+  .site-header .wrap {
+    padding: 18px;
+  }
+
+  .course-list {
+    grid-template-columns: 1fr;
+    gap: 22px;
+  }
+
+  .home-intro,
+  .course-list__item,
+  .course {
+    padding: 34px 20px 22px;
+  }
+
+  .site-footer {
+    margin: 0 16px 16px;
+  }
+}
