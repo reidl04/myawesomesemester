@@ -4,7 +4,6 @@ title: Home
 ---
 
 <div class="home-intro">
-<p>Welcome! This is a template for a "My Awesome Semester" course-and-teacher site. Replace this
-introduction with your own &mdash; a couple of sentences about your major, this semester, and what
-your friends and family are about to learn about your professors.</p>
+<p>I am Reid Luciano, as most of you know, and I am a Communications Major pursuing a minor in Psychology. This is the beginning of my senior year here at Virginia Tech. I am hoping to finish on a high note with this semester and then dive head first into my last semester. As for now, these are my courses and some information about the professors leading the charge!
+</p>
 </div>
