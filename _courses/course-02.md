@@ -1,7 +1,7 @@
 ---
 course_number: 2
 course_code: "CMST 2064"
-course_title: "Rhetoric Societal Changes"
+course_title: "Rhetoric & Societal Changes"
 meeting_time: "M-W 4:00-5:15"
 location: "Johnson Student Center 100"
 instructor_name: "Buddy Howell"
