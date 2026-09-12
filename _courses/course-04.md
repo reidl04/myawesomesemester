@@ -1,46 +1,39 @@
 ---
 course_number: 4
-course_code: "COMM XXXX"
-course_title: "Course Title 4"
-meeting_time: "TR 2:00–3:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
+course_code: "PSYC 2064"
+course_title: "Intro Neuroscience of Behavior"
+meeting_time: "T-TH 2:00-3:15"
+location: "Williams Hall 220"
+instructor_name: "Seogmin Park "
 instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+instructor_department: "Department of Psychology"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
+
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+This class helps students develop a broad understanding of the nervous system. Starting from its basic building blocks to the ways it shapes our everyday lives. This course also will give students opportunities to strengthen critical thinking and communication skills. I am taking this course as it is another requirement of mine in my pursuit for a minor in Psychology. 
 
 ## About Professor Name
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Education: 
+- 2012 Ph.D. Korea Advanced Institute of Science & Technology (KAIST)
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+- Neural mechanisms of learning and decision-making
+- Neural representation of structural knowledge
+- Neural computations underlying social decision-making
+## Publications
 
-### Publications
+- Map making: Constructing, combining, and inferring on abstract cognitive maps
+SA Park, DS Miller, H Nili, C Ranganath, ED Boorman
+Neuron 107, 1-13
+- Inferences on a multidimensional social hierarchy use a grid-like code
+SA Park, DS Miller, ED Boorman
+Nature Neuroscience 24 (9), 1292–1301
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
 
 ### Service and outreach
-
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Professor park says, "Studying the cognitive processes of decision making and learning is crucial for improving individual well-being and fostering a healthier, more equitable society."
