@@ -1,46 +1,37 @@
 ---
 course_number: 3
-course_code: "COMM XXXX"
-course_title: "Course Title 3"
-meeting_time: "MWF 1:25–2:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Professor"
-instructor_department: "Department Name"
+course_code: "CMST 4714"
+course_title: "Communication Senior Seminar"
+meeting_time: "M-W 2:30-3:45"
+location: "Mcbryde 233"
+instructor_name: "Carlos Evia Puerto"
+instructor_title: "Chief Technology Officer - Professor - Associate Dean of Strategic Initiatives"
+instructor_department: "School of Communication"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
+
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+This course is a Senior Seminar on communications and students can expect to propose original ideas, conduct research, present the results, and write detailed seminar paper. This course also prepares students graduating into the labor market that has been surrounded by artificial intelligence. I am taking this course as it is one of the final requirements for my degree. It has been an intuitive class so far and feels modern.
 
 ## About Professor Name
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Professor Evia is a whimsical individual that makes class not feel too serious. His schooling includes: Bachelors from Instituto de Ciencias Sociales de Merida, a masters from Universidad La Salle, and a Ph.D. from Texas Tech University. After his schooling he would work as the English Department Webmaster and a Graduate Part Time Instructor at Texas Tech University. After his time there he would come to Virginia Tech where he held multiple positions over the last 20 years. 
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Professor Evia has a focus on technology and recently more specifically artificial intelligence. Currently, he is making theoretical framework focused on AI systems and how they interpret and transform human-made content. He connects it back to communications but also addressing what distinct competencies human communicators must change in order to remain essential in this landscape. 
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
+Professor Evia has published four books that include:
 
-- Citation or title of a representative publication
-- Citation or title of another publication
+- Creating Intelligent Content with Lightweight DITA
+- Outsourcing Technical Communication (co-edited with Barry Thatcher)
+-  Content Operations from Start to Scale
+-  Technical Communication and the Discipline of Content (co-authored with Rebekka Andersen)
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Professor Evia is focused on how to work closely with AI and stay relevant in an ever-changing landscape. 
